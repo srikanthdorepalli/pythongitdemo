@@ -1,4 +1,4 @@
-def add(x,y):
+def add_two_variables(x,y):
     print(x+y)
 
 
