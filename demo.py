@@ -1,5 +1,5 @@
-def add_two_variables(x,y):
-    print(x+y)
+def add_two_variables(c,d):
+    print(c+d)
 
 
 add(1,2)
